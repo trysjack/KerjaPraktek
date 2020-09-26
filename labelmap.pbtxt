@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'Lengkuas'
+}
+item {
+    id: 2
+    name: 'Temulawak'
+}
+item {
+    id: 3
+    name: 'Kencur'
+}
+item {
+    id: 4
+    name: 'Jahe'
+}
+item {
+    id: 5
+    name: 'Kunyit'
